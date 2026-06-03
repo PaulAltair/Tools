@@ -79,6 +79,8 @@ Supported keywords: (not all sub-options necessarily supported):
 
 *DISTRIBUTING COUPLING
 
+*DSLOAD (Pressures)
+
 *DLOAD (only GRAV type)
 
 *ELEMENT, *TYPE= 
